@@ -13,4 +13,18 @@ CNN
 CNN + LSTM
 Temporal Fusion Transformer
 
+The google colab notebooks can be accessed here
+
+LSTM, CNN, CNN+LSTM
+https://colab.research.google.com/drive/1DO6YHCwORk43B_biO4bNRFmvd6Zziuwy?usp=sharing
+
+Bi-LSTM
+https://colab.research.google.com/drive/1Gb0GTWDkOE3PNqWyjulFJmxWGVgobtvz?usp=sharing
+
+Temporal Fusion Tranformer
+https://colab.research.google.com/drive/1uvnjcgFtc0u-xA4RmdutOT8PIYESOWan?usp=sharing
+
+Dataset and models are present here
+https://drive.google.com/drive/folders/1R_6e0Y60kymIhPhsB4XarTEvZmv1MT0V?usp=sharing
+
 Additionally, a report summarizing the models we trained and tested, their performance and conclusions is also attached.
